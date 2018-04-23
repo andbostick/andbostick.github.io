@@ -34,25 +34,22 @@
     padding: 20px;
 }
 
-.middle {
+.content {
     background: rgba(242, 242, 242, .6);
     padding: 100px;
 }
 
-.middle--text {
+.content--text {
     text-align: center;
     font-size: 2rem;
     line-height: 4rem;
     color: #4A4A4A;
 }
 
-.middle__paragraph {
+.content__paragraph {
     font-size: 2rem;
 }
 
-/* .container {
-    padding: 100px;
-} */
 
 .projects {
     padding: 100px;
